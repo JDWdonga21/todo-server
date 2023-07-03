@@ -1,0 +1,2 @@
+-- SQLite
+ALTER TABLE todos ADD COLUMN memos TEXT;
